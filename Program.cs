@@ -45,6 +45,6 @@ namespace Parcial_I_ejercicio1
             Console.ReadLine();
 
         }
-
+        
     }
 }
